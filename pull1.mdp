@@ -21,7 +21,7 @@ rvdw                     = 1
 
 integrator               = md             
 dt                       = 0.01
-nsteps                   = 1000000            
+nsteps                   = 200000            
 
 ;;;;;;;;;; minimization
 
